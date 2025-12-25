@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "DR. Israr Ahmad",
-      "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/dia_1.mp4"
+      "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/1_dia.mp4"
     },
     {
       "id": 2,
       "title": "DR. Israr Ahmad",
-      "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/dia_2.mp4"
+      "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/2_dia.mp4"
     },
     {
       "id": 3,
       "title": "DR. Israr Ahmad",
-      "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/dia_3.mp4"
+      "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/3_dia.mp4"
     },
     {
       "id": 4,
@@ -51,4 +51,5 @@
       "link": "https://raw.githubusercontent.com/fluttermahtab/Dr-Israr-Ahmad/main/dia_10.mp4"
     }
   ]
+
 }
